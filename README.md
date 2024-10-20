@@ -1,6 +1,6 @@
 <div style="background-color:#1c1b29; color:white; padding:20px;">
 
-![MasterHead](https://64.media.tumblr.com/39dd1d98385cd4252b73d858d1ad9402/4a3ef35e6c4ab562-da/s1280x1920/16c0e2ec346cb7660dbc2fd3307bc8a1e305792d.gif) 
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/f28b4022600593.58c272e374fa3.gif) 
 <h1 align="center" style="color:#c3a6ff;">Agam Pandey || Web Developer</h1>
 <h3 align="center" style="color:#c3a6ff;">A versatile developer from India eager to work on innovative ideas. Feel free to reach out!</h3>
 
