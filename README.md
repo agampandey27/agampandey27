@@ -13,7 +13,7 @@
 <a href="https://twitter.com/_agampandey" target="blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
 </a>
-<a href="https://linkedin.com/in/agam pandey" target="blank" style="text-decoration:none;">
+<a href="https://www.linkedin.com/in/agampandey" target="blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 </p>
