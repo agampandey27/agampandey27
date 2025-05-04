@@ -1,7 +1,7 @@
 <div style="background-color:#1c1b29; color:white; padding:20px;">
 
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/f28b4022600593.58c272e374fa3.gif) 
-<h1 align="center" style="color:#c3a6ff;">Agam Pandey || Web Developer</h1>
+<h1 align="center" style="color:#c3a6ff;">Agam Pandey | Full Stack Developer</h1>
 <h3 align="center" style="color:#c3a6ff;">A versatile developer from India eager to work on innovative ideas. Feel free to reach out!</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
